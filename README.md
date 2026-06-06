@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Marissa Famularo McHugh
 
-<!--
-**MarissaFamularo/MarissaFamularo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vascular surgeon and health data scientist. I lead a multi-hospital limb preservation program, train residents in an integrated vascular surgery residency, and build software that makes clinical research and education more rigorous, reproducible, and accessible.
 
-Here are some ideas to get you started:
+I work at the intersection of **vascular surgery, health data science, and applied AI** building prediction models for limb loss, comparative effectiveness studies on EHR-linked data, and web apps that teach clinicians to read evidence critically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vascular surgeon | Medical Director, Limb Preservation Program | Associate Program Director, Integrated Vascular Surgery Residency
+- MS candidate, Health Data Science
+- Society for Vascular Surgery - Appropriateness Committee; Quality & Performance Measures Committee
+- Working mostly in Python (data science / ML) and React + Node.js (apps)
+
+---
+
+## What I build
+
+I keep application source private, but everything below is live - click through.
+
+### StatUp -- statistics & AI literacy for clinicians
+Free, interactive statistics and machine-learning education built for physicians. Modules on study design, test selection, survival analysis, effect sizes, and applied ML, plus tools like a paper-appraisal scanner and a statistical-test selector. Built by surgeons, for surgeons.
+**Stack:** React, Node.js | **Live:** https://statup.app
+
+### PaperTrellis -- research pipeline tracker
+A workflow tool that moves academic projects from idea to publication -- tracking each manuscript through its stages so nothing stalls.
+**Stack:** React, Node.js | **Live:** https://papertrellis.com
+
+### Pelvena -- privacy-first pelvic health tracker
+A symptom tracker for pelvic health where all data stays on the user's device. Privacy-by-design, no server-side patient data.
+**Stack:** React | **Live:** https://pelvena.com
+
+### Shop My Stash -- fabric stash manager (iOS & Web)
+Lets quilters organize their fabric collection, plan projects, and "shop their stash" before buying more.
+**Stack:** React, Node.js, iOS | **Live:** https://shopmystash.app · [App Store](https://apps.apple.com/us/app/shop-my-stash/id6758253810)
+
+### The Surgical Sewist
+My personal site on quilting as a practice for busy clinicians -- and a hub for the apps and tools I build.
+**Live:** https://www.thesurgicalsewist.com
+
+---
+
+## Research & focus areas
+
+- Prediction modeling for limb loss and diabetic foot ulcer outcomes, with an eye toward clinical decision support
+- Comparative effectiveness and healthcare-utilization studies on EHR-linked data (Epic Cosmos)
+- Population-health models for amputation, MI, and stroke prevention
+- AI literacy and reproducible-methods education for surgical trainees
+
+Reporting standards I work to: STROBE (observational), CONSORT (trials).
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/marissa-famularo
+- Email: famularo.marissa@gmail.com and marissa.famularo@jefferson.edu
+
+*Most of my repositories are private (live apps and clinical research). The links above show the work itself.*
