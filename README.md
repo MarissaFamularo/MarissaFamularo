@@ -37,6 +37,14 @@ My personal site on quilting as a practice for busy clinicians -- and a hub for 
 
 ---
 
+## For fun
+
+### Kaiju Wars
+A browser game I'm building with my 7-year-old -- Helping us both learn how to make cool stuff. Open source.
+**Live:** https://kaijuwars.netlify.app · **Code:** https://github.com/MarissaFamularo/kaiju-wars
+
+---
+
 ## Research & focus areas
 
 - Prediction modeling for limb loss and diabetic foot ulcer outcomes, with an eye toward clinical decision support
