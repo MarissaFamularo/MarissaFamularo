@@ -39,6 +39,10 @@ My personal site on quilting as a practice for busy clinicians -- and a hub for 
 
 ## For fun
 
+### Space Sim
+A KSP-inspired browser space game co-designed with my 7-year-old -- real orbital mechanics across the whole solar system (transfer windows, mid-course corrections, Saturn's rings), an AI navigator that teaches the real physics, and rocket "share codes" for friends. His coding on-ramp lives inside it: every part is editable JSON. Open source.
+**Live:** https://marissafamularo.github.io/space-sim/ · **Code:** https://github.com/MarissaFamularo/space-sim
+
 ### Kaiju Wars
 A browser game I'm building with my 7-year-old -- Helping us both learn how to make cool stuff. Open source.
 **Live:** https://kaijuwars.netlify.app · **Code:** https://github.com/MarissaFamularo/kaiju-wars
