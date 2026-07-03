@@ -56,7 +56,7 @@ A browser game I'm building with my 7-year-old -- Helping us both learn how to m
 - Population-health models for amputation, MI, and stroke prevention
 - AI literacy and reproducible-methods education for surgical trainees
 
-Reporting standards I work to: STROBE (observational), CONSORT (trials).
+Reporting standards I work to: STROBE (observational), CONSORT (trials), TRIPOD+AI (prediction models).
 
 ---
 
