@@ -13,7 +13,11 @@ I work at the intersection of **vascular surgery, health data science, and appli
 
 ## What I build
 
-I keep application source private, but everything below is live - click through.
+I keep some application source private, but everything below is live - click through.
+
+### Verastar -- verifiable literature digest for clinicians
+A morning research briefing that wraps Claude Opus in a deterministic verifier: every statistic in the digest is located in the real source text and gated before it renders, so it shows what it *proved*, not what a model asserted. Saved papers become plain markdown in a folder you own. Built end-to-end with Claude Code for the *Built with Claude: Life Sciences* hackathon (Anthropic × Gladstone).
+**Stack:** React, Vite, Claude API | **Live:** https://verastar.netlify.app · **Code:** https://github.com/MarissaFamularo/verastar
 
 ### StatUp -- statistics & AI literacy for clinicians
 Free, interactive statistics and machine-learning education built for physicians. Modules on study design, test selection, survival analysis, effect sizes, and applied ML, plus tools like a paper-appraisal scanner and a statistical-test selector. Built by surgeons, for surgeons.
