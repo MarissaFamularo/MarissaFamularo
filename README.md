@@ -43,12 +43,16 @@ My personal site on quilting as a practice for busy clinicians -- and a hub for 
 
 ## For fun
 
+### The Single-Transit Hunt
+A Jupyter notebook that hunts NASA TESS light curves for single-transit planet candidates -- the long-period planets automated pipelines miss because they only dip once per sector. A family citizen-science project with my son: random star batches, a sliding-window dip detector, live TOI cross-matching, and by-eye vetting. Candidates get reported to Planet Hunters TESS. Open source.
+**Stack:** Python, lightkurve | **Code:** https://github.com/MarissaFamularo/single-transit-hunt
+
 ### Space Sim
-A KSP-inspired browser space game co-designed with my 7-year-old -- real orbital mechanics across the whole solar system (transfer windows, mid-course corrections, Saturn's rings), an AI navigator that teaches the real physics, and rocket "share codes" for friends. His coding on-ramp lives inside it: every part is editable JSON. Open source.
+A KSP-inspired browser space game co-designed with my son -- real orbital mechanics across the whole solar system (transfer windows, mid-course corrections, Saturn's rings), an AI navigator that teaches the real physics, and rocket "share codes" for friends. His coding on-ramp lives inside it: every part is editable JSON. Open source.
 **Live:** https://marissafamularo.github.io/space-sim/ · **Code:** https://github.com/MarissaFamularo/space-sim
 
 ### Kaiju Wars
-A browser game I'm building with my 7-year-old -- Helping us both learn how to make cool stuff. Open source.
+A browser game I'm building with my kiddo -- Helping us both learn how to make cool stuff. Open source.
 **Live:** https://kaijuwars.netlify.app · **Code:** https://github.com/MarissaFamularo/kaiju-wars
 
 ---
