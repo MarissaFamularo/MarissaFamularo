@@ -1,5 +1,7 @@
 # Hi, I'm Marissa Famularo McHugh
 
+🌐 **Website:** https://www.marissafamularo.com
+
 Vascular surgeon and health data scientist. I lead a multi-hospital limb preservation program, train residents in an integrated vascular surgery residency, and build software that makes clinical research and education more rigorous, reproducible, and accessible.
 
 I work at the intersection of **vascular surgery, health data science, and applied AI** building prediction models for limb loss, comparative effectiveness studies on EHR-linked data, and web apps that teach clinicians to read evidence critically.
@@ -70,6 +72,7 @@ Reporting standards I work to: STROBE (observational), CONSORT (trials), TRIPOD+
 
 ## Connect
 
+- Website: https://www.marissafamularo.com
 - LinkedIn: https://www.linkedin.com/in/marissa-famularo
 - Email: famularo.marissa@gmail.com and marissa.famularo@jefferson.edu
 
