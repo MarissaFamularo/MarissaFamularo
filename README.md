@@ -1,6 +1,8 @@
 # Hi, I'm Marissa Famularo McHugh
 
-🌐 **Website:** https://www.marissafamularo.com
+🌐 **Professional website:** https://marissafamularo.com
+
+🧵 **Quilting website:** https://www.thesurgicalsewist.com
 
 Vascular surgeon and health data scientist. I lead a multi-hospital limb preservation program, train residents in an integrated vascular surgery residency, and build software that makes clinical research and education more rigorous, reproducible, and accessible.
 
@@ -41,8 +43,8 @@ A symptom tracker for pelvic health where all data stays on the user's device. P
 Lets quilters organize their fabric collection, plan projects, and "shop their stash" before buying more.
 **Stack:** React, Node.js, iOS | **Live:** https://shopmystash.app · [App Store](https://apps.apple.com/us/app/shop-my-stash/id6758253810)
 
-### The Surgical Sewist
-My personal site on quilting as a practice for busy clinicians -- and a hub for the apps and tools I build.
+### The Surgical Sewist -- quilting website
+My site on quilting as a practice for busy clinicians -- and a hub for the apps and tools I build.
 **Live:** https://www.thesurgicalsewist.com
 
 ---
@@ -76,7 +78,8 @@ Reporting standards I work to: STROBE (observational), CONSORT (trials), TRIPOD+
 
 ## Connect
 
-- Website: https://www.marissafamularo.com
+- Professional website: https://marissafamularo.com
+- Quilting website: https://www.thesurgicalsewist.com
 - LinkedIn: https://www.linkedin.com/in/marissa-famularo
 - Email: famularo.marissa@gmail.com and marissa.famularo@jefferson.edu
 
