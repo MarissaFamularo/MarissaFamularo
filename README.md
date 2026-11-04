@@ -19,7 +19,7 @@ I keep some application source private, but everything below is live - click thr
 
 ### Verastar -- verifiable literature digest for clinicians
 A morning research briefing that wraps Claude Opus in a deterministic verifier: every statistic in the digest is located in the real source text and gated before it renders, so it shows what it *proved*, not what a model asserted. Saved papers become plain markdown in a folder you own. Built end-to-end with Claude Code for the *Built with Claude: Life Sciences* hackathon (Anthropic × Gladstone).
-**Stack:** React, Vite, Claude API | **Live:** https://verastar.netlify.app · **Code:** https://github.com/MarissaFamularo/verastar
+**Stack:** React, Vite, Claude API | **Live:** https://verastar.papertrellis.com · **Code:** https://github.com/MarissaFamularo/verastar
 
 ### StatUp -- statistics & AI literacy for clinicians
 Free, interactive statistics and machine-learning education built for physicians. Modules on study design, test selection, survival analysis, effect sizes, and applied ML, plus tools like a paper-appraisal scanner and a statistical-test selector. Built by surgeons, for surgeons.
@@ -28,6 +28,10 @@ Free, interactive statistics and machine-learning education built for physicians
 ### PaperTrellis -- research pipeline tracker
 A workflow tool that moves academic projects from idea to publication -- tracking each manuscript through its stages so nothing stalls.
 **Stack:** React, Node.js | **Live:** https://papertrellis.com
+
+### Paper Trellis Citation Verifier -- citation checking for authors and peer reviewers
+A free, standalone tool that checks whether each cited paper supports the sentence citing it. Claude proposes a supporting passage, the app verifies the quote against the source, and TypeSafe's Jev scores the evidence. Authors and reviewers make the final call and can export their review table.
+**Live:** https://verify.papertrellis.com · **Code:** https://github.com/MarissaFamularo/citation-verifier
 
 ### Pelvena -- privacy-first pelvic health tracker
 A symptom tracker for pelvic health where all data stays on the user's device. Privacy-by-design, no server-side patient data.
